@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 
 ## 2: Handling Infinite Historical Data (Reading Years of Old Data)
 

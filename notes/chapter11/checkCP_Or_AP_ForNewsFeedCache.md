@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 
 
 When a **Network Partition** happens in a Multi-AZ Master-Replica architecture, you cannot have both perfect consistency and perfect availability. You must choose.

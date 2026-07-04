@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 
 ## : The News Feed Cache is Down Completely
 

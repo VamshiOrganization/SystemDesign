@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 ### The Full EC2 Sizing Matrix (For Spring Boot Apps)
 
 When designing a large-scale system like a News Feed, senior engineers categorize application server tiers based on their compute, memory, and network capabilities.

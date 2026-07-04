@@ -1,4 +1,4 @@
-[← Back to README](../../README.md)
+[← Back to Design News Feed System](designNewsFeedSystem.md)
 
 ### Questions
 - [1) In Figures 3-1 and 3-2, are the Fanout Service and News Feed Service the same or different?](3-1_3-2_isSameOrdifferent.md)

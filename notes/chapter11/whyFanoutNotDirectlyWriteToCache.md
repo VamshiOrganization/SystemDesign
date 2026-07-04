@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 ### Why route through a Message Queue and Workers instead of writing directly from the Fanout Service to the Redis Cache?
 
 Your intuition is 100% correct. **It is entirely due to the massive volume of writes and preventing the system from choking.**

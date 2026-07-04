@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 
 **Q)What happens to this retrieval flow if one of the people the user follows is a massive celebrity with 50 million followers? Do we still pre-compute their posts into our user cache?**
 
