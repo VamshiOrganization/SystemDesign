@@ -1,3 +1,5 @@
+[← Back to q&a](../q&a.md)
+
 ### 1) In Figures 3-1 and 3-2, are the Fanout Service and News Feed Service the same or different?
 
 They are **different** services handling completely opposite directions of data flow:

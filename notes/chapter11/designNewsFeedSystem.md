@@ -1,4 +1,4 @@
-
+[← Back to q&a](../q&a.md)
 ### High-level design
  The design is divided into two flows: feed publishing and news feed building. 
  * Feed publishing: *  when a user publishes a post, corresponding data is written into cache and database. A post is populated to her friends’ news feed. 

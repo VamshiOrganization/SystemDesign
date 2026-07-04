@@ -1,3 +1,5 @@
+[← Back to q&a](../q&a.md)
+
 To give you a definitive answer: **an AWS `t3.micro` instance cannot safely handle 50,000 requests per second** (the fanout volume generated if 10 users with 5,000 friends post simultaneously), and it will struggle significantly with a standard Spring Boot application under any moderate load.
 
 As a senior engineer, you know that a Spring Boot application carries non-trivial baseline overhead. Let's look at why `t3.micro` is severely constrained, and then map out the exact capacity matrix you need to calculate the infrastructure required for 10 million users and 5,000-friend fanouts.

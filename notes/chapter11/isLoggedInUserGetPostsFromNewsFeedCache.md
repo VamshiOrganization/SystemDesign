@@ -1,3 +1,5 @@
+[← Back to q&a](../q&a.md)
+
 Yes, **your understanding is 100% correct.** When a user logs in and requests their news feed (the **Read Flow**), the system does not dynamically scan the database to see what their friends have posted. Instead, it goes straight to that user's specific **News Feed Cache** entry in Redis to pull their pre-computed feed.
 
 Let’s trace exactly how this happens step-by-step in a production architecture to see why this design makes the system lightning-fast.

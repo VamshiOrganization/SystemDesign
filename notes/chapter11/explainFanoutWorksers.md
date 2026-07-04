@@ -1,3 +1,4 @@
+[← Back to q&a](../q&a.md)
 ### Explain Fanout Workers like I'm 5 (ELI5)
 
 Imagine you are a popular kid at school, and you want to pass a party invitation to all 1,000 of your friends.

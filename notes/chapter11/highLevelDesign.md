@@ -1,3 +1,5 @@
+[← Back to q&a](../q&a.md)
+
 Figure 3-1(11-2) and Figure 3-2(11-3) present high-level designs for feed publishing and news feed building flows, respectively.
 
 ### Feed publishing:  
