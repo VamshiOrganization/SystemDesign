@@ -1,4 +1,4 @@
-[← Back to q&a](../q&a.md)
+[← Back to q&a](q&a.md)
 
 Let's clear up a small but very important detail in the URL path from **Figure 3-3** first.
 

@@ -15,6 +15,8 @@
 - [3 (ii) What happens if one of the people the user follows is a massive celebrity with 50 million followers? Do we still pre-compute their posts into our user cache?](isLoggedInUserFollowsCelebrityDoWeStillPreComputeTheirPostsIntoOurNewsFeedCache.md)
 - [3 (iii) What happens News Feed Cache is Down Completely?](ifNewsFeedCacheIsDown.md)
 - [3 (iv) Handling Infinite Historical Data (Reading Years of Old Data)?](handlingHistoricalData.md)
+#### Understanding Newsfeed Cache Figure  11-6 ,11-8
+- [4 (i) Newsfeed (Readis) Cache Architecture](newsfeedCacheArchitecture.md)
 
 ### Completed Topics
 - End-to-end publishing flow
@@ -24,4 +26,5 @@
 - Cache Fault Tolerance
 - Deep Scroll Pagination.
 - CAP trade-offs
+- Multi-Tier Cache Hydration Architecture
 
