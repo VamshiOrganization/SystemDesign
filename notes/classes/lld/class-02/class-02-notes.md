@@ -1,5 +1,6 @@
+[<~ Back to LLD](../lld.md)
 
-### **Core Topics & Page Mappings**[PDF](https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/blob/main/notes/classes/class-02/class-02-notes.pdf)
+### **Core Topics & Page Mappings** [PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/blob/main/notes/classes/lld/class-02/class-02-notes.pdf)
 
 1.  **Single Responsibility + Separation of Concerns** — **Page 1**
     
