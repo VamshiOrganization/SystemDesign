@@ -2,7 +2,7 @@
 
 [<~ Back to HLD](../hld.md)
 
-### **File Reference:** `hld-class-01-notes.pdf` (Total Pages: 11) [PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/hld/class-01/hld-class-01-notes)
+### **File Reference:** `hld-class-01-notes.pdf` (Total Pages: 11) [PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/hld/class-01/hld-class-01-notes.pdf)
 
 ### **1. Introduction & Overview** — Page 3
 
