@@ -1,3 +1,5 @@
+[<~ Back to LLD](../../lld.md)
+
 ## LLD Notes 01 - Why Software Design Exists Index [PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/lld/class-01/lld-class-01-notes.pdf)
 
 
