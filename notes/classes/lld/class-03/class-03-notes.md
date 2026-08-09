@@ -2,7 +2,7 @@
 
 ### Design Patterns, Builder, Strategy, and Null Index
 
-### ** Video (08-08-2026) ** **File Reference:** `class-03-notes.pdf[[PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/lld/class-02/class-02-notes.pdf)]` (Total Pages: 8)
+### ** Video (08-08-2026) ** **File Reference:** [class-03-notes.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/lld/class-02/class-02-notes.pdf) (Total Pages: 8)
  
 ### **1. What Design Patterns Are (and Aren't)** — Page 1
 
