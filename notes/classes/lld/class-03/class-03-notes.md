@@ -2,11 +2,11 @@
 
 ### Design Patterns, Builder, Strategy, and Null Index
 
-### ** Video (08-08-2026) ** **File Reference:** [class-03-notes.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/lld/class-03/class-03-notes.pdf) (Total Pages: 8)
+### **Video Date: (08-08-2026)** and **File Reference:** [class-03-notes.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/lld/class-03/class-03-notes.pdf) (Total Pages: 8)
  
 ### **1. What Design Patterns Are (and Aren't)** — Page 1
 
--   **Origin & Gang of Four (GoF):** Cataloguing 23 recurring OOP solutions and creating a common vocabulary.
+-   **Origin & Gang of Four (GoF):** Cataloguing 23 recurring  OOP solutions and creating a common vocabulary.
     
 -   **Misconceptions:** Design patterns are not checklists, measures of seniority, or universally required.
     
