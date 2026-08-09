@@ -4,6 +4,12 @@
 
 ### **Video Date: (08-08-2026)** and **File Reference:** [hld-class-03-notes.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/hld/class-03/hld-class-03-notes.pdf) (Total Pages: 12) 
 
+### **Assignment**
+**Problem statement:** Ball-by-ball scores for matches are entered by a small number of official scorers at stadiums. Millions of fans want near-real-time scores on their phones, and third-party apps (news sites, fantasy platforms) want an API. Design the system.
+**Functional requirements:** (1) Ingest score updates from scorers at each live match, (2) serve current score + recent ball-by-ball commentary to millions of users, (3) provide an API for third-party apps, (4) notify subscribed users of key events (wicket, century).
+**Suggested NFRs:** ~50 concurrent matches, tiny write volume (1 write every few seconds per match) but 50M reads/day with peaks of 500K req/sec during an India match; p99 < 1 sec; eventual consistency acceptable (a score 3 seconds stale is fine); read:write ratio ~1,000,000:1.
+
+
 ### **1. Vertical vs. Horizontal Scaling** — Page 1
 
 -   **Vertical Scaling (Scale Up):** Buying bigger hardware (CPU/RAM/Disk), operational simplicity vs. cost non-linearity, hard hardware ceilings, and single points of failure.
