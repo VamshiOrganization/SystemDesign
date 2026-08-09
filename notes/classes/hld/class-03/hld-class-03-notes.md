@@ -1,3 +1,5 @@
+[<~ Back to HLD](../hld.md)
+
 ## Distributed Systems: CAP Theorem, PACELC & Consistency Index
 
 ### **Video Date: (08-08-2026)** and **File Reference:** [hld-class-03-notes.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/hld/class-03/hld-class-03-notes.pdf) (Total Pages: 12) 

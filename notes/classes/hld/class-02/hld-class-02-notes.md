@@ -1,4 +1,5 @@
 ## System Design: Global Weather Data Platform Index
+
 [<~ Back to HLD](../hld.md)
 
 ### **1. Problem Statement** — Page 1 [PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/VamshiOrganization/SystemDesign/main/notes/classes/hld/class-02/hld-class-02-notes.pdf)
