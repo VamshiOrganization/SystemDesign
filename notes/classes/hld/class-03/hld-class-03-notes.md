@@ -72,7 +72,7 @@
         
     -   **PC/EL:** Yahoo! PNUTS ("Sherpa").
         
--   **Quorum Intuition:** $R + W > N$ formula dynamics and minority partition behavior.
+-   **Quorum Intuition:[Quorum.md]** $R + W > N$ formula dynamics and minority partition behavior.
     
 
 ### **6. Practical Application & Trade-offs** — Page 10
